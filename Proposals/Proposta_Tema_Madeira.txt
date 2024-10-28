@@ -1,0 +1,13 @@
+A ideia que propus não seria só relativa aos incêndios recentes. Foi motivada por eles, mas o objetivo era desenvolver um Atlas do Fogo para a Madeira equivalente ao que temos para Portugal Continental, a cobrir o período 1984 - 2023. Para a Madeira conviria acrescentar 2024, claro.
+
+O trabalho para Portugal Continental foi feito como uma abordagem de deep learning, usando uma rede neuronal convolucional. Temos o código desenvolvido por uma ex-colaboradora e um estudante de doutoramento que já o usou numa área de estudo em Moçambique. Temos também uma descrição detalhada dos passos do processo.
+
+Aqui vai o documento que mencionei antes. São notas (não uma descrição rigorosa) do procedimento para criar um Atlas do Fogo com 40 anos para Portugal Continental e nem todos os passos terão de ser aplicados no caso da Madeira.
+
+A abordagem mais simples, que penso que valerá a pena experimentar, será classificar as imagens de satélite da Madeira com a rede já treinada para Portugal. A outra abordagem será recolher novos dados de treino a partir de imagens da Madeira contendo áreas queimadas e re-treinar a rede. Num e noutro caso, seria depois necessário fazer uma avaliação da qualidade dos mapas de áreas queimadas resultantes.
+
+Aqui vai uma imagem da Madeira, captada no passado dia 4 e que mostra a área queimada em Agosto, colocada sobre um modelo digital do terreno, para fazer o efeito 3-D.
+
+Anexo também um conjunto de notícias de jornal e TV que recolhi rapidamente na Web e que dizem quando e onde ocorreram alguns dos maiores incêndios na ilha, nos últimos anos.
+
+Em Portugal Continental, as imagens de satélite adequadas (Landsat) começam em 1984 e tornam-se mais abundantes a começar em 2013. Nunca avaliei com cuidado a disponibilidade de imagens para a Madeira e isso deverá ser a primeira tarefa. Tens alguma experiência com o Google Earth Engine?
