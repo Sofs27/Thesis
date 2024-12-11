@@ -1,0 +1,161 @@
+https://dhefeus.rd.ciencias.ulisboa.pt/
+
+REFERENCES
+[1] Ward, P.J., Blauhut, V., Bloemendaal, N., Daniell, J.E., de Ruiter. M.C., Duncan, M.J., Emberson, R., Jenkins S.F., Kirschbaum, D., Kunz, M., Mohr, S., Muis, S., Riddell, G.A., Schäfer, A., Stanley, T., Veldkamp, T.I.E., Winsemius, H.C. (2020). Review article: Natural hazard risk assessments at the global scale, Nat. Hazards Earth Syst. Sci., 20, 1069–1096, doi:10.5194/nhess-20-1069-2020.
+
+[2] Spinoni, J., Naumann, G., Vogt, J., Barbosa, P. (2016). Meteorological Droughts in Europe: Events and Impacts – Past Trends and Future Projections. Publications Office of the European Union, Luxembourg, EUR 27748 EN, doi:10.2788/450449.
+
+[3] Russo, S., Sillmann, J., Fischer, E.M. (2015). Top ten European heatwaves since 1950 and their occurrence in the coming decades, Environmental Research Letters, 10, 12, 124003, doi:10.1088/1748-9326/10/12/124003
+
+[4] Sánchez-Benítez, A., García-Herrera, R., Barriopedro, D., Sousa, P.M., Trigo, R.M. (2018). June 2017: The earliest European summer mega-heatwave of reanalysis period. Geophysical Research Letters, 45, 1955–1962. doi: 10.1002/2018GL077253
+
+[5] Turco, M., Jerez, S., Augusto, S., Tarín-Carrasco, P., Ratola, N., Jiménez-Guerrero, P., Trigo, R.M. (2019). Climate drivers of the 2017 devastating fires in Portugal. Sci Rep 9, 13886, doi:10.1038/s41598-019-50281-2
+
+[6] Vicente-Serrano, S.M., Lopez-Moreno, J.-I., Beguería, S., et al (2014). Evidence of increasing drought severity caused by temperature rise in southern Europe. Environ Res Lett 9:44001. doi: 10.1088/1748-9326/9/4/044001.
+
+[7] Libonati, R., Geirinhas, J.L., Silva, P.S., Russo, A., Rodrigues, J.A., Belém, L.B.C., Nogueira, J., Roque, Rodrigues, J.A., Belém, L.B.C., Nogueira, J., Roque, F.O., DaCamara, C.C., Nunes, A.M.B, (2022). Environmental Research Letters, Volume 17, Number 1, 015005, doi:10.1088/1748-9326/ac462e
+
+[8] Seneviratne, S.I. et al. (2012). Changes in climate extremes and their impacts on the natural physical environment, in Managing the Risks of Extreme Events and Disasters to Advance Climate Change Adaptation. A Special Report of Working Groups I and II of the Intergovernmental Panel on Climate Change (IPCC) , C. B. Field, V. Barros, T. F. Stocker, D. Qin, D. J. Dokken, K. L. Ebi, M.D. Mastrandrea, K.J. Mach, G. K. Plattner, S. K. Allen, M. Tignor, P. M. Midgley, Eds. (Cambridge Univ. Press, 2012), chap. 3, pp. 109–230.
+
+[9] Miralles, D.G., Gentine, P., Seneviratne, S.I., Teuling, A.J. (2019). Land–atmospheric feedbacks during droughts and heatwaves: state of the science and current challenges, Ann. N. Y. Acad. Sci., 1436 (1), 19-35, doi:10.1111/nyas.13912
+
+[10] Hertig E., Russo A., Trigo R.M. (2020) Heat and Ozone pollution waves in Central and South Europe - Characteristics, Weather Types, and association with Mortality. Atmosphere, 11(12), 1271, doi:10.3390/atmos11121271
+
+[11] Sutanto, S.J., Vitolo, C., Di Napoli, C., D'Andrea, M., Van Lanen, H.A.J. (2020). Heatwaves, droughts, and fires:Exploring compound and cascading dry hazards at the pan-European scale. Environ Int. 2020 Jan; 134:105276. doi: 10.1016/j.envint.2019.105276.
+
+[12] Zscheischler, J., Seneviratne, S.I. (2017). Dependence of drivers affects risks associated with compound events, Science Advances, 3, 6, e1700263, doi: 10.1126/sciadv.1700263
+
+[13] Zscheischler, J. et al. (2018). Future climate risk from compound events. Nat. Clim. Change, 8: 469-477, doi:10.1038/s41558-018-0156-3
+
+[14] AghaKouchak, A., Chiang, F., Huning, L.S., Love, C.A., Mallakpour, I., Mazdiyasni, O., Mo􀀄akhari, H., Papalexiou, S.M., Ragno, E., Sadegh, M. (2020). Climate Extremes and Compound Hazards in a Warming World, Annual Review of Earth and Planetary Sciences 2020 48:1, doi:10.1146/annurev-earth-071719-055228
+
+[15] Gasparrini, A. et al. (2017). Projections of temperature-related excess mortality under climate change scenarios. The Lancet Planetary Health 1(9) E360-E367, doi:10.1016/S2542-5196(17)30156-0
+
+[16] Shaposhnikov, D. et al. (2014). Mortality related to air pollution with the Moscow heat wave and wildfire of 2010. Epidemiology 25(3) 359-364, doi:10.1097/EDE.0000000000000090
+
+[17] Brando, P.M. et al. (2014). Abrupt increases in Amazonian tree mortality due to drought-fire interactions. Proc. Natl. Acad. Sci. 111 6347-52
+
+[18] De Sario. M., Katsouyanni, K., Michelozzi, P. (2013). Climate change, extreme weather events, air pollution and respiratory health in Europe. European Respiratory Journal, 42 (3), 826-843, https://doi.org/10.1183/09031936.00074712
+
+[19] Ribeiro, A.F.S., Russo, A., Gouveia, C. M., Páscoa, P., and Zscheischler, J. (2020). Risk of crop failure due to compound dry and hot extremes estimated with nested copulas. Biogeosciences, 17, 4815–4830
+
+[20] Vitolo, C., Di Napoli, C., Di Giuseppe, F., Cloke, H.L., Pappenberger, F. (2019). Mapping combined wildfire and heat-stress hazards to improve evidence-based decision making, Environ. Int., 127 (2019), 21-34, doi:10.1016/j.envint.2019.03.008
+
+[21] UNDRR: Global Assessment Report 2015, Making Development Sustainable: The Future of Disaster Risk Management, UN Office for Disaster Risk Reduction, Geneva (2015).
+
+[22] Turco, M., von Hardenberg, J., AghaKouchak, A., Llasat, M.C., Provenzale, A., Trigo R.M. (2017). On the key role of droughts in the dynamics of summer fires in Mediterranean Europe. Scientific Reports, 7:81. DOI:10.1038/s41598-017-00116-9, https://doi.org/10.1038/s41598-017-00116-9
+
+[23] Liu, J.C., Wilson, A., Mickley, L.J., Dominici, F., Ebisu, K., Wang, Y., et al. (2017). Wildfire-specific fine particulate matter and risk of hospital admissions in urban and rural counties. Epidemiology 28 77–85.
+
+[24] Liu, J.C., Mickley, L.J., Sulprizio, M.P., Yue, X., Peng, R.D., Dominici, F., Bell, M.L. (2016). Future respiratory hospital admissions from wildfire smoke under climate change in the Western US. Environmental Research Letters, 11. doi:10.1088/1748-9326/11/12/124018
+
+[25] Price, O.F., Williamson, G.J., Henderson, S.B., Johnston, F., Bowman, D.M.J.S. (2012). The Relationship between Particulate Pollution Levels in Australian Cities,Meteorology, and Landscape Fire Activity Detected from MODIS Hotspots. PLoS ONE 7(10): e47327.doi:10.1371/journal.pone.0047327
+
+[26] Deb, P., Moradkhani, H., Abbaszadeh, P., Kiem, A.S., Engström, J., Keellings, D., Sharma, A. (2020). Causes of the widespread 2019–2020 Australian bushfire season. Earth's Future, 8, e2020EF001671. https://doi.org/10.1029/2020EF001671
+
+[27] Cavaleiro, R.. Russo, A., Sousa, P.M., Durão, R. (2021). Association between Prevailing Circulation Patterns and Coarse Particles in Portugal. Atmosphere 2021, 12(1), 85
+
+[28] Rammig, A., Wiedermann, M., Donges, J.F., Babst, F.,von Bloh, W., Frank, D., Thonicke, K., Mahecha, M.D. (2015). Coincidences of climate extremes and anomalous vegetation responses: comparing tree ring patterns to simulated productivity Biogeosciences 12 373-85
+
+[29] Wu, X., Hao, Z., Hao, F., Li, C., Zhang, X. (2019). Spatial and temporal variations of compound droughts and hot extremes in China, Atmosphere 2019, 10(2), 95; https://doi.org/10.3390/atmos10020095
+
+[30] Soares, P.M.M., Cardoso, R.M., Lima, D.C.A., Miranda, P.M.A. (2017). Future precipitation in Portugal: high-resolution projections using WRF model and EURO-CORDEX multi-model ensembles. Climate Dynamics, 49:2503–2530, doi:10.1007/s00382-016-3455-2.
+
+[31] Ruffault, J., Curt, T., Moron, V., Trigo, R.M., Mouillot, F., Koutsias, N., Pimont, F., Martin-StPaul, N., Barbero, R., Dupuy, J.-L., Russo, A., Belhadj-Khedher, C. (2020). Increased Likelihood of Heat-Induced Larfe Wildfires in the Mediterranean Basin. Scientific Reports, 10, 13790, doi: 10.1038/s41598-020-70069-z
+
+[32] Zhang, J., Gao, Y., Luo, K., Leung, L. R., Zhang, Y., Wang, K., and Fan, J. (2018). Impacts of compound extreme weather events on ozone in the present and future, Atmos. Chem. Phys., 18, 9861–9877, doi:10.5194/acp-18-9861-2018
+
+[33] Lei, Y., Yue, X., Liao, H., Zhang, L., Yang, Y., Zhou, H., Tian, C., Gong, C., Ma, Y., Gao, L., and Cao, Y. (2021). Indirect contributions of global fires to surface ozone through ozone–vegetation feedback, Atmos. Chem. Phys., 21, 11531–11543, doi:10.5194/acp-21-11531-2021.
+
+[34] Hao, Z., Hao, F., Xia, Y., Singh, V.P., Zhang, X. (2019). A monitoring and prediction system for compound dry and hot events, Environ. Res. Lett.14 114034, doi:10.1088/1748-9326/ab4df5
+
+[35] Vieira, I., Russo, A., Trigo, R.M. (2020). Identifying Local-Scale Weather Forcing Conditions Favorable to Generating Iberia’s Largest Fires, Forests 11(5), 547, doi:10.3390/f11050547
+
+[36] Huijnen, V., Wooster, M., Kaiser, J. et al. (2016). Fire carbon emissions over maritime southeast Asia in 2015 largest since 1997. Sci Rep 6, 26886. doi:10.1038/srep26886
+
+[37] Geirinhas, J.L., Trigo, R.M., Libonati, R., Castro, L.C.O., Sousa, P.M., Coelho, C.A.S., Peres, L.F., Magalhães, M.D.A.F.M. (2019). Characterizing the atmospheric conditions during the 2010 heatwave in Rio de Janeiro marked by excessive mortality rates. Sci. Total Environ., 650, 796–808, doi:10.1016/j.scitotenv.2018.09.060
+
+[38] Russo, A., Trigo, R.M., Martins, H., Mendes, M.T. (2014). NO2, PM10 and O3 urban concentrations and its association with circulation weather types in Portugal. Atmos. Environ., 89, 768-785.doi:10.1016/j.atmosenv.2014.02.010
+
+[39] Russo, A., Lind, P. G., Raischel, F., Trigo, R., Mendes, M. (2014). Neural network forecast of daily pollution concentration using optimal meteorological data at synoptic and local scales. Atmospheric Pollution Research 6 (2015) 540?549 doi:10.5094/APR.2015.060
+
+[40] Bento, V.A., Ribeiro, A.F.S., Russo, A., Gouveia, C., Cardoso, R.M.,Soares P.M.M. (2021). The impact of climate change in wheat and barley yields in the Iberian Peninsula. Scientific Reports, 11, 15484, doi:10.1038/s41598-021-95014-6
+
+[41] Lin, M., Horowitz, L.W., Xie, Y., Paulot, F., Malyshev, S., Shevliakova, E., Finco, A., Gerosa, G., Kubistin, D. and Pilegaard, K. (2020). Vegetation feedbacks during drought exacerbate ozone air pollution extremes in Europe. Nature Climate Change, 10(5), 444-451.
+
+
+PAPERS
+Careto, J. A. M., Cardoso, R. M., Russo, A., Lima, D. C. A.,, Soares, P. M. M. (2024) Generalised drought index: a novel multi-scale daily approach for drought assessment. Geoscientific Model Development 17, 8115-8139. https://doi.org/10.5194/gmd-17-8115-2024
+
+Santos, R., Russo, A., Gouveis, C. M. (2024) Co-occurrence of marine and atmospheric heatwaves with drought conditions and fire activity in the Mediterranean region. Scientific Reports 14, 19233. https://doi.org/10.1038/s41598-024-69691-y
+
+DaCamara, C. C., Bento, V. A., Nunes, S. A., Lemos, G., Soares, P. M. M., Trigo, R. M. (2024) Impacts of fire prevention strategies in a changing climate: an assessment for Portugal. Environmental Research: Climate 3, 045002. https://doi.org/10.1088/2752-5295/ad574f
+
+Ebenezer, T., Lind, P. G., Russo, A. (2024) A Markov-chain model for assessing heatwaves and droughts in Iberian Peninsula. 6th International Conference on Energy and Environment: bringing together Engineering and Economics, Guimarães, Portugal. Link to PDF - https://dhefeus.rd.ciencias.ulisboa.pt/presentations/DroughtsHeatwaves-MarkovChains-Ebenezer.pdf 
+
+Menezes, L. S., Russo, A., Libonati, R., Trigo, R. M., Pereira, J. M. C., Benali, A., Ramos, A. M., Gouveia, C. M., Rodriguez, C. A. M., Deus, R. (2024) Lightning-induced fire regime in Portugal based on satellite-derived and in situ data. Agricultural and Forest Meteorology 355, 110108. https://doi.org/10.1016/j.agrformet.2024.110108
+
+Páscoa, P., Gouveia, C. M., Ribeiro, A. F. S., Russo, A. (2024) Compound drought and hot events assessment in Australia using copula functions. Environmental Research: Communications 6, 031002. https://doi.org/10.1016/j.wace.2023.100623
+
+Garrido-Perez, J. M., Vicente-Serrano, S. M., Barriopedro, D., García-Herrera, R., Trigo, R. M., Beguería, S. (2024) Examining the outstanding Euro-Mediterranean drought of 2021-2022 and its historical context. Journal of Hydrology 630, 130653. https://doi.org/10.1088/2515-7620/ad2bb8
+
+Bento, V. A., Lima, D. C. A., Santos, L. C., Lima, M. M., Russo, A., Nunes, S. A., DaCamara, C. C., Trigo, R. M., Soares, P. M. M. (2023) The future of extreme meteorological fire danger under climate change scenarios for Iberia. Weather and Climate Extremes 42, 100623. https://doi.org/10.1016/j.wace.2023.100623
+
+Geirinhas, J. L., Russo, A., Libonati, R., Miralles, D. G., Ramos, A. M., Gimeno, L., Trigo, R. M. (2023) Combined large-scale tropical and subtropical forcing on the severe 2019-2022 drought in South America. npj | climate and atmospheric science 6, 185. https://doi.org/10.1038/s41612-023-00510-3
+
+Soares, P. M. M., Careto, J. A. M., Russo, A., Lima, D. C. A. (2023) The future of Iberian droughts: a deeper analysis based on multi-scenario and a multi-model ensemble approach. Natural Hazards 117, 2001-2028. https://doi.org/10.1007/s11069-023-05938-7
+
+Bento, V. A., Russo, A., Vieira, I., Gouveia, C. M. (2023) Identification of forest vulnerability to droughts in the Iberian Peninsula. Theoretical and Applied Climatology 152, 559–579. https://doi.org/10.1007/s00704-023-04427-y
+
+Nunes, S. A., DaCamara, C. C., Pereira, J. M. C., Trigo, R. M. (2023) Assessing the role played by meteorological conditions on the interannual variability of fire activity in four subregions of Iberia. International Journal of Wildland Fire 32(11), 1529-1541. https://doi.org/10.1071/WF22137
+
+PRESENTATIONS
+	INTERNATIONAL CONFERENCES
+Bento, V. A., Lima, D. C. A., Careto, J. A., Russo, A. (2024) Global compound events interplay: impacts on fires and air pollution. 18th Plinius Conference on Mediterranean Risks, Chania, Greece, 30 Sep - 3 Oct 2024, Plinius18-56, https://doi.org/10.5194/egusphere-plinius18-56
+
+Bento, V. A., DaCamara, C. C., Russo, A., Nunes, S. A., Soares, P. M. M., Trigo, R. M. (2024) Adapting to change: evaluating the effects of fire prevention approaches in response to climate change. 18th Plinius Conference on Mediterranean Risks, Chania, Greece, 30 Sep - 3 Oct 2024, Plinius18-58, https://doi.org/10.5194/egusphere-plinius18-58
+
+Lima, D. C. A., Bento, V. A., Russo, A., Soares, P. M. M. (2024) The extreme future of soil moisture over the Mediterranean region. 18th Plinius Conference on Mediterranean Risks, Chania, Greece, 30 Sep - 3 Oct 2024, Plinius18-80, https://doi.org/10.5194/egusphere-plinius18-80
+
+Durão, R., Gouveia, C. M., Simões, M., Brito, A., Russo, A. (2024) Space-time characterization of fire-related air pollutants over Portugal. 18th Plinius Conference on Mediterranean Risks, Chania, Greece, 30 Sep - 3 Oct 2024, Plinius18-89, https://doi.org/10.5194/egusphere-plinius18-89
+
+Russo, A., Bento, V. A., Ribeiro, A., Lima, D. C. A., Careto, J. A., Soares P. M. M., Libonati, R., Trigo, R. M., Gouveia, C. M. (2024) Changes in population exposure to drought in the Iberian Peninsula under 1.5 and 2º GWLs. EMS Annual Meeting 2024, Barcelona, Spain, 1-6 Sep 2024, EMS2024-1095, https://doi.org/10.5194/ems2024-1095
+
+Bento, V. A., Lima, D. C. A., Careto, J. A., Russo, A (2024) Global Assessment of the Compound Effects of Hot, Dry Conditions and Fires on PM2.5 Levels using ERA5 and CAMS reanalysis. EMS Annual Meeting 2024, Barcelona, Spain, 1-6 Sep 2024, EMS2024-1085, https://doi.org/10.5194/ems2024-1085
+
+Trigo, R. M., Barriopedro, D., Garrido-Pérez, J., Simon, A., Plecha, S., Teles-Machado, A., Russo, A., García-Herrera, R. (2024) The outstanding European and Mediterranean heatwave activity during summer 2022. EGU General Assembly 2024, Vienna, Austria, 14–19 Apr 2024, EGU24-2460 - Link to PDF - https://dhefeus.rd.ciencias.ulisboa.pt/presentations/EGU_HW_Europe_Ricardo_Trigo_2024.pdf
+
+Bento, V. A., Lima, D. C. A., Russo, A. (2024) An outlook into Iberia’s population exposure to hot and dry extreme weather events at the end of the century. EGU General Assembly 2024, Vienna, Austria, 14–19 Apr 2024, EGU24-6217 - Link to PDF - https://dhefeus.rd.ciencias.ulisboa.pt/presentations/EGU24_presentation_vabento.pdf
+
+Ermitão, T., Gouveia, C. M., Bastos, A., Russo, A. (2024) Global patterns of Mediterranean ecosystems recovery from recurrent fires. EGU General Assembly 2024, Vienna, Austria, 14–19 Apr 2024, EGU24-5375 - Link to PDF - https://dhefeus.rd.ciencias.ulisboa.pt/presentations/EGU24_Ermitao.pdf
+
+Russo, A., Bento, V. A., Ribeiro, A., Lima, D. C. A., Careto, J. A., Soares, P. M. M., Libonati, R., Trigo, R., Gouveia, C. M. (2024) Projected Increases in Population Exposure to Droughts in the Iberian Peninsula under 1.5ᵒ and 2ᵒC Global Warming Levels. EGU General Assembly 2024, Vienna, Austria, 14–19 Apr 2024, EGU24-18396 - Link to PDF - https://dhefeus.rd.ciencias.ulisboa.pt/presentations/EGU_ARusso_2024.pdf
+
+Santos, R., Russo, A., and Gouveia, C. M. (2023) Assessing the impact of marine and atmospheric heatwaves on droughts and fire activity in the Mediterranean region. EGU General Assembly 2023, Vienna, Austria, 24–28 Apr 2023, EGU23-7779
+
+Russo, A., Santos, R., and Gouveia, C. M. (2023) Compound occurrence of marine and atmospheric heatwaves with drought conditions over the Mozambique Channel and Madagascar Island. EGU General Assembly 2023, Vienna, Austria, 24–28 Apr 2023, EGU23-8156
+
+Geirinhas, J. L., Russo, A., Libonati, R., Miralles, D. G., Ramos, A. M., and Trigo, R. M. (2023) An insight into the severe 2019-2021 drought over Southeast South America from a daily to decadal and regional to large-scale variability perspective. EGU General Assembly 2023, Vienna, Austria, 24–28 Apr 2023, EGU23-827
+
+Ermitão, T., Gouveia, C. M., Bastos, A., Russo, A. (2023) Assessing changes in post-fire vegetation resilience in Mediterranean basin over the past 22 years. EGU General Assembly 2023, Vienna, Austria, 24–28 Apr 2023, EGU23-412
+
+	NATIONAL CONFERENCES
+Barreirinha, A., Castanheira, J. M., and Gouveia, C. M. (2023) Modelação da recuperação da produtividade da vegetação após os incêndios utilizando dados GPP TERRA/MODIS. APMG 2023 – 12º Simpósio de Meteorologia e Geofísica da APMG e o XXI Encontro Luso Espanhol de Meteorologia, Lisboa, Portugal, 20–22 Mar 2023
+
+Alonso, C., and Gouveia, C. M. (2023) Sinergia entre as perdas de produtividade da vegetação e o aumento da concentração de ozono troposférico associado a incêndios em Portugal continental. APMG 2023 – 12º Simpósio de Meteorologia e Geofísica da APMG e o XXI Encontro Luso Espanhol de Meteorologia, Lisboa, Portugal, 20–22 Mar 2023
+
+Santos, R., Russo, A., and Gouveia, C. M. (2023) O impacto das ondas de calor marinhas e atmosféricas nas secas e incêndios na zona Mediterrânica. APMG 2023 – 12º Simpósio de Meteorologia e Geofísica da APMG e o XXI Encontro Luso Espanhol de Meteorologia, Lisboa, Portugal, 20–22 Mar 2023
+
+Ermitão, T., Gouveia, C. M., Bastos, A., and Russo, A. (2023) O papel dos incêndios na diminuição da resiliência da vegetação no Mediterrâneo. APMG 2023 – 12º Simpósio de Meteorologia e Geofísica da APMG e o XXI Encontro Luso Espanhol de Meteorologia, Lisboa, Portugal, 20–22 Mar 2023
+
+
+DATABASES
+Gincheva, A., Pausas, J.G., Edwards, A., Provenzale, A., Cerdà, A., Hanes, C., Royé, D., Chuvieco, E., Mouillot, F., Vissio, G., Rodrigo, J., Bedía, J., Abatzoglou, J.T., Senciales González, J.M., Short, K.C., Baudena, M., Llasat, M.C., Magnani, M., Boer, M.M., González, M.E., Torres-Vázquez, M.Á., Fiorucci, P., Jacklyn, P., Libonati, R., Trigo, R.M., Herrera, S., Jerez, S., Wang, X., Turco, M. (2024) A monthly gridded burned area database of national wildland fire data. Sci Data 2024 Apr 8; 11(1):352. https://doi.org/10.1038/s41597-024-03141-2 PMID: 38589374; PMCID: PMC11002030.
+
+
+THESIS
+Ebenezer T. (2024) Spatial and compound dependencies in drought and heatwaves in the climate of South-Western Europe. MSc. Thesis in Applied Computer and Information Technology - ACIT (Data Science), Department of Computer Science, Faculty of Technology, Art and Design, Oslo Metropolitan University, OsloMet. - Link to PDF - https://dhefeus.rd.ciencias.ulisboa.pt/teses/ACIT_Master_Ebenezer_ExtremeClimate.pdf
+
+Santos R. (2024) Co-occurrence of marine and atmospheric heatwaves with drought conditions and its association with fire activity in the Mediterranean region. MSc. Thesis in Geophysical Sciences, Faculdade de Ciências da Universidade de Lisboa. - Link to PDF - https://dhefeus.rd.ciencias.ulisboa.pt/teses/TESE%20-%20Raquel%20Santos%20-%20Vers%C3%A3o%20Definitiva.pdf
+
+Carvalho M. (2023) Secas e ondas de calor no Sudeste do Brasil: identificação e catalogação de eventos históricos. Bachelor project of the Meteorology, Oceanography and Geophysics’ Degree, Faculdade de Ciências da Universidade de Lisboa.
