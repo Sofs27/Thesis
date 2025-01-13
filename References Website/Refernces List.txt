@@ -13,9 +13,7 @@ REFERENCES
 
 [6] Vicente-Serrano, S.M., Lopez-Moreno, J.-I., Beguería, S., et al (2014). Evidence of increasing drought severity caused by temperature rise in southern Europe. Environ Res Lett 9:44001. doi: 10.1088/1748-9326/9/4/044001.
 
-[7] Libonati, R., Geirinhas, J.L., Silva, P.S., Russo, A., Rodrigues, J.A., Belém, L.B.C., Nogueira, J., Roque, Rodrigues, J.A., Belém, L.B.C., Nogueira, J., Roque, F.O., DaCamara, C.C., Nunes, A.M.B, (2022). Environmental Research Letters, Volume 17, Number 1, 015005, doi:10.1088/1748-9326/ac462e
 
-[8] Seneviratne, S.I. et al. (2012). Changes in climate extremes and their impacts on the natural physical environment, in Managing the Risks of Extreme Events and Disasters to Advance Climate Change Adaptation. A Special Report of Working Groups I and II of the Intergovernmental Panel on Climate Change (IPCC) , C. B. Field, V. Barros, T. F. Stocker, D. Qin, D. J. Dokken, K. L. Ebi, M.D. Mastrandrea, K.J. Mach, G. K. Plattner, S. K. Allen, M. Tignor, P. M. Midgley, Eds. (Cambridge Univ. Press, 2012), chap. 3, pp. 109–230.
 
 [9] Miralles, D.G., Gentine, P., Seneviratne, S.I., Teuling, A.J. (2019). Land–atmospheric feedbacks during droughts and heatwaves: state of the science and current challenges, Ann. N. Y. Acad. Sci., 1436 (1), 19-35, doi:10.1111/nyas.13912
 
@@ -27,19 +25,27 @@ REFERENCES
 
 [13] Zscheischler, J. et al. (2018). Future climate risk from compound events. Nat. Clim. Change, 8: 469-477, doi:10.1038/s41558-018-0156-3
 
-[14] AghaKouchak, A., Chiang, F., Huning, L.S., Love, C.A., Mallakpour, I., Mazdiyasni, O., Mo􀀄akhari, H., Papalexiou, S.M., Ragno, E., Sadegh, M. (2020). Climate Extremes and Compound Hazards in a Warming World, Annual Review of Earth and Planetary Sciences 2020 48:1, doi:10.1146/annurev-earth-071719-055228
-
 [15] Gasparrini, A. et al. (2017). Projections of temperature-related excess mortality under climate change scenarios. The Lancet Planetary Health 1(9) E360-E367, doi:10.1016/S2542-5196(17)30156-0
+
+[18] De Sario. M., Katsouyanni, K., Michelozzi, P. (2013). Climate change, extreme weather events, air pollution and respiratory health in Europe. European Respiratory Journal, 42 (3), 826-843, https://doi.org/10.1183/09031936.00074712
+
+[20] Vitolo, C., Di Napoli, C., Di Giuseppe, F., Cloke, H.L., Pappenberger, F. (2019). Mapping combined wildfire and heat-stress hazards to improve evidence-based decision making, Environ. Int., 127 (2019), 21-34, doi:10.1016/j.envint.2019.03.008
+
+
+
+---
+
+[7] Libonati, R., Geirinhas, J.L., Silva, P.S., Russo, A., Rodrigues, J.A., Belém, L.B.C., Nogueira, J., Roque, Rodrigues, J.A., Belém, L.B.C., Nogueira, J., Roque, F.O., DaCamara, C.C., Nunes, A.M.B, (2022). Environmental Research Letters, Volume 17, Number 1, 015005, doi:10.1088/1748-9326/ac462e
+
+[8] Seneviratne, S.I. et al. (2012). Changes in climate extremes and their impacts on the natural physical environment, in Managing the Risks of Extreme Events and Disasters to Advance Climate Change Adaptation. A Special Report of Working Groups I and II of the Intergovernmental Panel on Climate Change (IPCC) , C. B. Field, V. Barros, T. F. Stocker, D. Qin, D. J. Dokken, K. L. Ebi, M.D. Mastrandrea, K.J. Mach, G. K. Plattner, S. K. Allen, M. Tignor, P. M. Midgley, Eds. (Cambridge Univ. Press, 2012), chap. 3, pp. 109–230.
+
+[14] AghaKouchak, A., Chiang, F., Huning, L.S., Love, C.A., Mallakpour, I., Mazdiyasni, O., Mo􀀄akhari, H., Papalexiou, S.M., Ragno, E., Sadegh, M. (2020). Climate Extremes and Compound Hazards in a Warming World, Annual Review of Earth and Planetary Sciences 2020 48:1, doi:10.1146/annurev-earth-071719-055228
 
 [16] Shaposhnikov, D. et al. (2014). Mortality related to air pollution with the Moscow heat wave and wildfire of 2010. Epidemiology 25(3) 359-364, doi:10.1097/EDE.0000000000000090
 
 [17] Brando, P.M. et al. (2014). Abrupt increases in Amazonian tree mortality due to drought-fire interactions. Proc. Natl. Acad. Sci. 111 6347-52
 
-[18] De Sario. M., Katsouyanni, K., Michelozzi, P. (2013). Climate change, extreme weather events, air pollution and respiratory health in Europe. European Respiratory Journal, 42 (3), 826-843, https://doi.org/10.1183/09031936.00074712
-
 [19] Ribeiro, A.F.S., Russo, A., Gouveia, C. M., Páscoa, P., and Zscheischler, J. (2020). Risk of crop failure due to compound dry and hot extremes estimated with nested copulas. Biogeosciences, 17, 4815–4830
-
-[20] Vitolo, C., Di Napoli, C., Di Giuseppe, F., Cloke, H.L., Pappenberger, F. (2019). Mapping combined wildfire and heat-stress hazards to improve evidence-based decision making, Environ. Int., 127 (2019), 21-34, doi:10.1016/j.envint.2019.03.008
 
 [21] UNDRR: Global Assessment Report 2015, Making Development Sustainable: The Future of Disaster Risk Management, UN Office for Disaster Risk Reduction, Geneva (2015).
 
