@@ -1,5 +1,12 @@
 Title: Detecting and Assessing Pollution Events from Wildfires Using Remote Sensing and Meteorological Data: A Data Science Approach
 
+BI Goals:
+i) investigar as ligações entre a atividade do fogo, conforme medido pelo FRP (Fire Radiative Power), e as concentrações de poluentes e avaliar a zona espacial e temporal de influência da atividade dos incêndios florestais.
+(ii) investigar a utilização de FRP como ferramenta para filtrar a contribuição do fumo de biomassa para os registos de poluição atmosférica em bacias atmosféricas urbanas, nomeadamente as emissões de carbono resultantes de incêndios florestais graves.
+(iii) desenvolver abordagens multirriscos para caracterizar o comportamento conjunto de múltiplos perigos e riscos consequentes e avaliar o papel desempenhado por condições anteriores e simultâneas de seca e/ou calor na exacerbação de incêndios rurais e consequentes ondas de fumo
+(iv) Disseminação de resultados.
+
+
 1. Introduction
      Background:
          Air pollution, responsible for an estimated 7 million 
