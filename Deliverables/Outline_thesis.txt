@@ -1,0 +1,127 @@
+Title: Detecting and Assessing Pollution Events from Wildfires Using Remote Sensing and Meteorological Data: A Data Science Approach
+
+BI Goals:
+i) investigar as ligações entre a atividade do fogo, conforme medido pelo FRP (Fire Radiative Power), e as concentrações de poluentes e avaliar a zona espacial e temporal de influência da atividade dos incêndios florestais.
+(ii) investigar a utilização de FRP como ferramenta para filtrar a contribuição do fumo de biomassa para os registos de poluição atmosférica em bacias atmosféricas urbanas, nomeadamente as emissões de carbono resultantes de incêndios florestais graves.
+(iii) desenvolver abordagens multirriscos para caracterizar o comportamento conjunto de múltiplos perigos e riscos consequentes e avaliar o papel desempenhado por condições anteriores e simultâneas de seca e/ou calor na exacerbação de incêndios rurais e consequentes ondas de fumo
+(iv) Disseminação de resultados.
+
+
+1. Introduction
+     Background:
+         Air pollution, responsible for an estimated 7 million 
+preventable deaths annually, affects over 90% of the global population 
+with polluted air. Pollution from both natural and anthropogenic 
+sources frequently transgresses national boundaries, impacting distant 
+regions.
+         Wildfires contribute significantly to air pollution by 
+releasing particulate matter (PM) and toxic gases into the atmosphere. 
+With climate change, wildfire activity is expected to increase, 
+leading to greater smoke dispersal and heightened health risks across 
+affected populations.
+
+    Problem Statement:
+         Although atmospheric dispersion models are commonly used for 
+tracking wildfire smoke, they have limitations, such as heavy 
+computational demands and discrepancies between predicted and actual 
+pollution concentrations. Alternatively, remote sensing offers 
+near-real-time data with products like the Fire Radiative Power (FRP) 
+and Fire Radiative Energy (FRE), which allow for effective monitoring 
+of wildfire emissions.
+
+     Research Aim:
+         To detect and assess wildfire pollution events using a 
+combination of remote sensing, atmospheric monitoring data, and 
+machine learning approaches, focusing on FRP and FRE outputs as 
+indicators of wildfire-induced pollution.
+
+     Objectives:
+         -Identify key indicators from remote sensing and 
+meteorological data that correlate with pollution events due to 
+wildfires.
+         -Develop a machine learning-based model to detect pollution 
+events using data from sources like CAMS, WRF-Chem, FRP/FRE.
+         -Analyze the spatial and temporal impacts of wildfire smoke 
+on air quality in affected areas.
+         -Analyse the impact of compound extreme events on 
+wildfire-related pollution events
+
+2. Literature Review
+     Air Pollution:
+         Discuss the impacts of particulate matter and toxic gases 
+emitted from wildfires, with a focus on the transboundary nature of 
+pollution and its exacerbation due to climate change.
+     Remote Sensing in Wildfire Monitoring:
+         Review remote sensing tools, including MODIS, SEVIRI, and 
+Sentinel products, used in monitoring wildfire activity and emissions. 
+Discuss the utility of FRE and FRP as measures of biomass combustion 
+rate and their effectiveness in tracking pollution.
+     Data Science in Environmental Monitoring:
+         Explore data science methods in atmospheric and environmental 
+sciences, including machine learning models used in pollution 
+detection and forecasting.
+
+3. Data and Methodology
+     Data Collection:
+         Meteorological Data: Gather atmospheric data, such as 
+temperature, humidity, wind speed, and direction, from sources like 
+CAMS and monitoring stations.
+         Remote Sensing Data: Use FRE and FRP data from MODIS, SEVIRI, 
+and Sentinel-3 for monitoring fire radiative power and energy release.
+     Data Processing:
+         Integrate meteorological and remote sensing data with 
+pollution monitoring station data to create a comprehensive dataset.
+         Preprocess data by cleaning and transforming it to address 
+missing values, noise, and scaling for model input.
+
+    Model Development:
+         Supervised Machine Learning Models: Implement and compare 
+models (e.g., Random Forests, XGBoost, and Neural Networks) to 
+classify pollution events and identify anomalies related to wildfire 
+smoke.
+         Spatial and Temporal Analysis: Use geospatial tools to map 
+the spatial reach of pollution plumes, identifying the temporal 
+dynamics of smoke dispersal patterns.
+
+    Evaluation and Validation:
+         Validate the model using metrics such as accuracy, F1-score, 
+and area under the curve (AUC) for classification tasks.
+         Cross-reference predicted pollution events with historical 
+extreme events (e.g., Portugal’s 2017 megafires) to validate spatial 
+and temporal accuracy. Analyse the impact of compound events (e.g. 
+droughts and heatwaves) to the magnitude of fire-driven pollution 
+events.
+
+4. Results and Discussion
+     Model Performance:
+         Present the results of model performance, discussing the 
+predictive accuracy in detecting pollution events and identifying 
+contributing factors from FRE, FRP, and meteorological data.
+
+    Spatial and Temporal Impact Analysis:
+         Discuss the spatial and temporal patterns of wildfire smoke 
+distribution. Evaluate how FRP and FRE data correlate with pollutant 
+concentrations across affected regions.
+
+    Limitations and Future Improvements:
+         Discuss potential limitations of the model, such as 
+sensitivity to specific atmospheric conditions or data quality, and 
+suggest directions for future improvement.
+
+5. Conclusion
+     Summary of Findings:
+         Summarize the effectiveness of remote sensing and 
+meteorological data in detecting and mapping wildfire-induced 
+pollution events.
+     Implications :
+         Discuss the potential of this approach to support 
+decision-making interventions and policy planning.
+     Future Work:
+         Suggest advancements in real-time monitoring systems, the 
+inclusion of additional data sources, and potential integration with 
+other environmental and health monitoring frameworks.
+
+6. References
+     Detailed list of all references cited, including recent studies 
+on air pollution, wildfire activity, and data science applications in 
+environmental monitoring.
